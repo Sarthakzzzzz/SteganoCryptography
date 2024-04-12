@@ -20,3 +20,4 @@ decrypted_text = Steganography.decrypt(key, output_image)
 print(decrypted_text)
 
 Steganography.write_file(output_file, decrypted_text)
+print("ABCD")
